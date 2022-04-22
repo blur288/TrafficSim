@@ -1,0 +1,4 @@
+﻿  Source.cpp
+A:\source\TrafficSim\TrafficSim\Intersections.h(31,23): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+A:\source\TrafficSim\TrafficSim\Intersections.h(34,25): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  TrafficSim.vcxproj -> A:\source\TrafficSim\Debug\TrafficSim.exe
